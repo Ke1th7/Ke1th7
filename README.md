@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <code>💫 Born 2002.04 · Chongqing, China.</code>
+    <code>💫 Born in 2002.04 · Chongqing, China.</code>
     <code>📍 Now Base in BeiJing.</code>
   </p>
 
@@ -21,7 +21,7 @@
 #### 🌱 Internship Experience
 
 <p>
-<strong>JD-*-PMO</strong> -- <code>Demand Delivery related to the International Financial Domain </code> -- <code>2026.06 to 09.</code><br/>
+<strong>JD-*-PMO</strong> -- <code>Demand Delivery related to the International Financial Domain (Full-Stack)</code> -- <code>2026.06 to 09.</code><br/>
 </p>
 
 </td>
